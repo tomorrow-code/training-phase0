@@ -1,4 +1,16 @@
 {
+  "name": "training-road-map",
+  "version": "1.0.0",
+  "description": "エンジニア育成ロードマップの学習記録",
+  "main": "index.js",
+  "scripts": {
+    "dev:w1d1": "ts-node src/phase0/w1/d1/index.ts",
+    "dev:w1d2": "ts-node src/phase0/w1/d2/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
