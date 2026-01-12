@@ -4,13 +4,7 @@
   "description": "エンジニア育成ロードマップの学習記録",
   "main": "index.js",
   "scripts": {
-    "dev:w1d1t1": "ts-node src/phase0/w1/d1/t1/index.ts",
-    "dev:w1d1t2": "ts-node src/phase0/w1/d1/t2/index.ts",
-    "dev:w1d1t3": "ts-node src/phase0/w1/d1/t3/index.ts",
-    "dev:w1d1t4": "ts-node src/phase0/w1/d1/t4/index.ts",
-    "dev:w1d1t5": "ts-node src/phase0/w1/d1/t5/index.ts",
-    "dev:w1d1t6": "ts-node src/phase0/w1/d1/t6/index.ts",
-    "dev:w1d2": "ts-node src/phase0/w1/d2/index.ts",
+    "dev:w1d2t1": "ts-node src/phase0/w1/d2/t1/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
